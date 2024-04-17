@@ -1,0 +1,4 @@
+#Sat Sep 03 16:24:28 IST 2022
+base.0=G\:\\Mom2B\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
